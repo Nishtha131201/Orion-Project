@@ -46,9 +46,9 @@
 
 ***Contributors***:
 </n>
-- Aryan Rathod 
-- Brijesh Shah
-- Nishtha Rathod
+- <a href="https://github.com/rathod-aryan">Aryan Rathod</a> 
+- <a href="https://github.com/bshah7">Brijesh Shah</a>
+- <a href="https://github.com/Nishtha131201"> Nishtha Rathod</a>
 
 
 
