@@ -1,0 +1,15 @@
+{
+  "short_name": "Orion",
+  "name": "Orion",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "45x40.60",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ede0f4",
+  "background_color": "#ede0f4"
+}
