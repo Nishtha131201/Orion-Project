@@ -35,7 +35,17 @@
 <h3>Answer to all your questions will be posted here!!</h3>
 <hr>
 <br/>
-![image](https://user-images.githubusercontent.com/63869921/124461184-f0904700-ddad-11eb-8687-f4b33bcd48ab.png)
+
+<br/><br/>
+
+<h3>Keep track of your Questions and Answers on your Profile :)</h3>
+<hr>
+<br/>
+
+
+![Team](https://user-images.githubusercontent.com/63869921/124461887-c723eb00-ddae-11eb-8319-7f4ca362e75f.gif)
+
+
 
 
 
